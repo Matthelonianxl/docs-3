@@ -2,7 +2,7 @@
 .next
 out
 dist
-public/sitemap.xml
+# public/sitemap.xml
 
 # dependencies
 node_modules
