@@ -17,7 +17,7 @@
     "@mapbox/rehype-prism": "0.3.0",
     "@mdx-js/loader": "0.15.5",
     "@mdx-js/mdx": "0.15.5",
-    "@mdx-js/tag": "0.15.0",
+    "@mdx-js/tag": "0.20.3",
     "@next/mdx": "9.0.5",
     "@sindresorhus/slugify": "0.6.0",
     "@skidding/react-codemirror": "1.0.2",
